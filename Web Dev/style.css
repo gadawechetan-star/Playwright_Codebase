@@ -1,0 +1,23 @@
+.content {
+    color: blue;
+    font-size: 20px;
+    height: 25px;
+    width: 150px;
+    border: 1px solid rgb(31, 158, 99);
+    margin: 10px;
+    text-align: center;
+    font-style: italic;
+
+}
+
+.content {
+    color: rgb(27, 163, 39);
+    font-size: 20px;
+    height: 25px;
+    width: 150px;
+    border: 1px solid rgb(31, 158, 99);
+    margin: 10px;
+    text-align: center;
+    font-style: italic;
+
+}

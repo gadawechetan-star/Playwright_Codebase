@@ -1,0 +1,5 @@
+Created event: "Test Event 1790862836434"
+Seats before booking: 50
+Booking confirmed. Ref: T-G9U0IF
+Booking card found in My Bookings for ref: T-G9U0IF
+Seats after booking: 49
